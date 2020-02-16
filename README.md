@@ -22,7 +22,7 @@ See deployment for notes on how to deploy the project on a live system.
 
 ### How to install
 
-__1)__ Clone this repo to your computer:  `https://github.comurielmoyal/Yummly`
+__1)__ Clone this repo to your computer:  `https://github.com/urielmoyal/Yummly`
 
 __2)__ Open command line.
 
